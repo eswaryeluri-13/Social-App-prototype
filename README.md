@@ -1,9 +1,9 @@
 # Social-App-prototype
 
-##Social App Prototype using Django
+## Social App Prototype using Django
 
-##Overview
--This project is a prototype for a social networking web application built using Django, a high-level Python web framework. The goal of this application is to provide users with a platform for connecting, sharing, and engaging with each other.
+## Overview
+- This project is a prototype for a social networking web application built using Django, a high-level Python web framework. The goal of this application is to provide users with a platform for connecting, sharing, and engaging with each other.
 
 ## Features
 - User Authentication: Secure user registration and authentication system.
