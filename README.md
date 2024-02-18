@@ -6,16 +6,16 @@
 - This project is a prototype for a social networking web application built using Django, a high-level Python web framework. The goal of this application is to provide users with a platform for connecting, sharing, and engaging with each other.
 
 ## Features
-- User Authentication: Secure user registration and authentication system.
-- Profiles: User profiles with customizable avatars and bio information.
-- Posts: Create, edit, and delete posts with rich text formatting.
-- Social Interaction: Follow other users, like and comment on their posts.
-- Notifications: Receive real-time notifications for new followers and post interactions.
+- **User Authentication**: Secure user registration and authentication system.
+- **Profiles**: User profiles with customizable avatars and bio information.
+- **Posts**: Create, edit, and delete posts with rich text formatting.
+- **Social Interaction**: Follow other users, like and comment on their posts.
+- **Notifications**: Receive real-time notifications for new followers and post interactions.
 ## Technologies Used
-- Django 4.1.9: Backend framework for building robust web applications.
-- Django REST Framework: For building APIs to support frontend interactions.
-- SQLite: Database management for storing user and post data.
-- Bootstrap 4: Frontend framework for responsive and visually appealing design.
+- **Django 4.1.9**: Backend framework for building robust web applications.
+- **Django REST Framework**: For building APIs to support frontend interactions.
+- **SQLite**: Database management for storing user and post data.
+- **Bootstrap 4**: Frontend framework for responsive and visually appealing design.
 ## Setup Instructions
 - Clone the repository: git clone https://github.com/your-username/social-app-prototype.git
 - Navigate to the project directory: cd social-app-prototype
